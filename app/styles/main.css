@@ -1,0 +1,16 @@
+.pointer {
+    cursor: pointer;
+}
+
+.accordion>div {
+    border: 1px solid rgb(216 216 216);
+}
+
+.accordion>div>div:first-child {
+    background-color: antiquewhite;
+    padding: 8px;
+}
+
+.accordion>div>div:last-child {
+    padding: 16px;
+}
